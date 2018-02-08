@@ -1,1 +1,1 @@
-# Automatic-Adjustment-of-Dif-culty-in-Video-Games
+# Automatic-Adjustment-of-Difficulty-in-Video-Games
